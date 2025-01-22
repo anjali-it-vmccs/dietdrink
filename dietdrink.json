@@ -9,12 +9,12 @@
         "Aids digestion",
         "Provides anti-inflammatory benefits"
       ],
-      "price": 4.99,
-      "image": "orange-lemon-ginger.jpg"
+      "price": 21,
+      "image": "https://ik.imagekit.io/anjaliitvmccs/Sem-nome.jpg?updatedAt=1737529506267"
     },
     {
       "id": 2,
-      "name": "Lemon",
+      "name": "Lemon & Ginger",
       "description": "A classic and simple lemon juice packed with antioxidants and Vitamin C for a healthy refreshment.",
       "benefits": [
         "Detoxifies the body",
@@ -22,8 +22,8 @@
         "Supports weight management",
         "Rich in antioxidants"
       ],
-      "price": 2.99,
-      "image": "lemon.jpg"
+      "price": 21,
+      "image": "https://ik.imagekit.io/anjaliitvmccs/Ginger-and-Lemon-tea.jpg?updatedAt=1737529506289"
     },
     {
       "id": 3,
@@ -35,8 +35,8 @@
         "Supports respiratory health",
         "Anti-inflammatory properties"
       ],
-      "price": 3.99,
-      "image": "ginger-black-pepper.jpg"
+      "price":21,
+      "image": "https://ik.imagekit.io/anjaliitvmccs/ginger%20&%20Blackpappers.jpeg?updatedAt=1737529505525"
     },
     {
       "id": 4,
@@ -48,8 +48,8 @@
         "Supports weight management",
         "Boosts immunity"
       ],
-      "price": 4.49,
-      "image": "cinnamon-honey.jpg"
+      "price": 21,
+      "image": "https://ik.imagekit.io/anjaliitvmccs/Cinnamon-honey-leamon.jpg?updatedAt=1737529506608"
     },
     {
       "id": 5,
@@ -61,8 +61,8 @@
         "Rich in antioxidants",
         "Promotes gut health"
       ],
-      "price": 3.49,
-      "image": "cumin-black-pepper.jpg"
+      "price": 21,
+      "image": "https://ik.imagekit.io/anjaliitvmccs/cumin-blackpapper.jpg?updatedAt=1737529505528"
     }
   ]
   
