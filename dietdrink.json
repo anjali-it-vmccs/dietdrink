@@ -1,0 +1,68 @@
+[
+    {
+      "id": 1,
+      "name": "Orange, Lemon, and Ginger",
+      "description": "A zesty and refreshing blend of orange, lemon, and ginger for a burst of energy and immunity boost.",
+      "benefits": [
+        "Rich in Vitamin C",
+        "Boosts immunity",
+        "Aids digestion",
+        "Provides anti-inflammatory benefits"
+      ],
+      "price": 4.99,
+      "image": "orange-lemon-ginger.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Lemon",
+      "description": "A classic and simple lemon juice packed with antioxidants and Vitamin C for a healthy refreshment.",
+      "benefits": [
+        "Detoxifies the body",
+        "Improves skin health",
+        "Supports weight management",
+        "Rich in antioxidants"
+      ],
+      "price": 2.99,
+      "image": "lemon.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Ginger & Black Pepper",
+      "description": "A warm and spicy blend of ginger and black pepper for improved digestion and enhanced metabolism.",
+      "benefits": [
+        "Boosts metabolism",
+        "Relieves nausea",
+        "Supports respiratory health",
+        "Anti-inflammatory properties"
+      ],
+      "price": 3.99,
+      "image": "ginger-black-pepper.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Cinnamon & Honey",
+      "description": "A sweet and aromatic drink combining cinnamon and honey, promoting heart health and weight management.",
+      "benefits": [
+        "Balances blood sugar levels",
+        "Improves heart health",
+        "Supports weight management",
+        "Boosts immunity"
+      ],
+      "price": 4.49,
+      "image": "cinnamon-honey.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Cumin & Black Pepper",
+      "description": "A savory mix of cumin and black pepper, aiding digestion and providing a rich source of antioxidants.",
+      "benefits": [
+        "Aids digestion",
+        "Enhances nutrient absorption",
+        "Rich in antioxidants",
+        "Promotes gut health"
+      ],
+      "price": 3.49,
+      "image": "cumin-black-pepper.jpg"
+    }
+  ]
+  
